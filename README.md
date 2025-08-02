@@ -1,6 +1,6 @@
 # Videoplayer Mirror — Web‑Extension
 
-> Переворачивает элементы `.videoplayer_media` по горизонтали (mirror + 1× zoom).
+> Переворачивает элементы `.videoplayer_media` по горизонтали (mirror).
 >
 > <kbd>⧉</kbd> Кликните по иконке — и видео отразится; повторный клик вернёт всё обратно.
 
@@ -13,9 +13,9 @@ videoplayer‑mirror/
 ├─ background.js   # service worker
 ├─ manifest.json   # manifest v3
 └─ icons/
-│   ├─ 16.png
-│   ├─ 48.png
-│   └─ 128.png
+│   ├─ icon16.png
+│   ├─ icon48.png
+│   └─ icon128.png
 └─ README.md
 ```
 
